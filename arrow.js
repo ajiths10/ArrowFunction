@@ -66,3 +66,12 @@ console.log(`${user2.name} = ${eligible(user2.boardmark,user2.age)}`);
 console.log(`${user3.name} = ${eligible(user3.boardmark,user3.age)}`);
 console.log(`${user4.name} = ${eligible(user4.boardmark,user4.age)}`);
 console.log(`${user5.name} = ${eligible(user5.boardmark,user5.age)}`);
+
+console.log(` `);
+console.log(`Selected students`);
+
+if(user1.boardmark,user1.age) console.log(`${user1.name}`);
+if(user2.boardmark,user2.age) console.log(`${user2.name}`);
+if(user3.boardmark,user3.age) console.log(`${user3.name}`);
+if(user4.boardmark,user4.age) console.log(`${user4.name}`);
+if(user5.boardmark,user5.age) console.log(`${user5.name}`);
